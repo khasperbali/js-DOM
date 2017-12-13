@@ -70,6 +70,6 @@ document.getElementById("aliasParent").appendChild(duncanm);
 /*9. Without modifying the HTML file, create your own profile.*/
 var mine = document.getElementsByClassName("block3 col-sm-4");
 var sid = document.createElement("P"); 
-sid.innerHTML = "Khasper NOT Khaspher PLZ";
+sid.innerHTML = "Khasper NOT Khaspher, Chasper, Kasper, Casper, or Khaspar PLZ";
 mine[2].appendChild(sid);
 mine[2].childNodes[0].src = "https://pbs.twimg.com/profile_images/760923351527358464/tWuCgNhW.jpg";
