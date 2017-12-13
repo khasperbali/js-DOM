@@ -68,8 +68,8 @@ duncanm.innerHTML = "Old Man Riverwalk";
 document.getElementById("aliasParent").appendChild(duncanm);
 //Final Boss;
 /*9. Without modifying the HTML file, create your own profile.*/
-var own = document.getElementsByClassName("block3 col-sm-4");
-var des = document.createElement("P"); 
-des.innerHTML = "Khasper NOT Khaspher";
-own[2].appendChild(des);
-own[2].childNodes[0].src = "https://pbs.twimg.com/profile_images/760923351527358464/tWuCgNhW.jpg";
+var mine = document.getElementsByClassName("block3 col-sm-4");
+var sid = document.createElement("P"); 
+sid.innerHTML = "Khasper NOT Khaspher PLZ";
+mine[2].appendChild(sid);
+mine[2].childNodes[0].src = "https://pbs.twimg.com/profile_images/760923351527358464/tWuCgNhW.jpg";
